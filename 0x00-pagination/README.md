@@ -1,8 +1,8 @@
 # 0x00. Pagination
 
-![meme1](./images/meme1.png)
-![meme2](./images/meme2.png)
-![meme3](./images/meme3.png)
+![image](https://github.com/user-attachments/assets/e42c6cb9-c798-4d5d-a428-1e097ac92840)
+![image](https://github.com/user-attachments/assets/961dbb8e-3e24-419e-ae68-2642ef8878ce)
+![image](https://github.com/user-attachments/assets/9c2b4fc6-f560-40b1-8568-da1391433182)
 
 ## Learning Objectives
 
